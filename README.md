@@ -3,7 +3,7 @@ Firmeware Drohne Dewey
 
 - ESP8266 (LOLIN(WEMOS)D1 R2
 - Adafruit NeoPixel
-- JeVe_EasyOTA_V2
+- JeVe_EasyOTA_V2 (https://github.com/jeroenvermeulen/JeVe_EasyOTA/)
 - FS
 - NTP
 - AudioOutput per I2S (nicht stabil)
