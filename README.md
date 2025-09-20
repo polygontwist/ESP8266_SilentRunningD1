@@ -6,7 +6,7 @@ Firmeware Drohne Dewey
 - JeVe_EasyOTA_V2 (https://github.com/jeroenvermeulen/JeVe_EasyOTA/)
 - FS
 - NTP
-- AudioOutput per I2S (nicht stabil)
+- AudioOutput per I2S (nicht stabil) mit MAX98357 Rev A
 
 
 https://www.a-d-k.de/20240724_125519-Dewey_modell.htm
